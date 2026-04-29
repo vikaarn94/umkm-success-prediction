@@ -27,3 +27,9 @@ typing_extensions==4.15.0
 tzdata==2026.2
 urllib3==2.6.3
 uvicorn==0.46.0
+# Machine Learning & MLOps
+mlflow
+scikit-learn
+joblib
+matplotlib
+seaborn
